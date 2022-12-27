@@ -4,3 +4,5 @@ this is changes  to check branch method
 
 this line is addeed on 27.12.22
 
+проверка слияния веток
+git status
